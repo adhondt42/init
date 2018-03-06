@@ -1,0 +1,1 @@
+ping -o slash16.org | grep "64 bytes from" | cut -c15-27
